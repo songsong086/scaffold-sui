@@ -17,3 +17,4 @@
 6. 合约代码在 move_package 中
 
 本项目由 [NonceGeek DAO](https://noncegeek.com/#/) 维护。
+# scaffold-sui
